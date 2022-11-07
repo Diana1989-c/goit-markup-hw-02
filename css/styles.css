@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto' (sans-serif);
+    line-height: 1;
+    color: black;
+}
+
+li {
+    color:black;
+}
+
+li:hover {
+    color:rgb(18, 8, 158);
+}
+
+button {
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+    color: white;
+}
+
