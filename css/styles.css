@@ -45,7 +45,7 @@ a{
 
 }
 
-/* Header section  */
+/* Sección Header  */
 .logo {
   color: var(--accent-color);
   font-family: "Raleway", sans-serif;
@@ -85,7 +85,7 @@ a{
 .contacts-menu .item:focus {
   color: var(--accent-color);
 }
-/* Hero section  */
+/* Sección general  */
 .hero{
   background-color: var(--primary-black-color) ;
 }
@@ -95,7 +95,7 @@ a{
   text-transform: capitalize;
 }
 
-/* Portfolio section  */
+/* Sección portafolio  */
 .portfolio .list li button {
   color: var(--primary-black-color);
   background-color: var(--text-white-opacity);
@@ -113,7 +113,7 @@ a{
   background-color: var(--accent-color);
 }
 
-/* footer section  */
+/* sección footer  */
 footer {
   background-color: var(--background-black);
 }
